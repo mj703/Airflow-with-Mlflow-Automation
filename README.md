@@ -1,6 +1,6 @@
 # ML Ops with Airflow, Tensorflow and MLFlow
 
- This repo walks through the steps necessary to create and operate an image classifier using Apache Airflow. This includes the DAG and required code to run it, steps to build the kubernetes resources and some helpful hints and tips to apply this into your own environment. This repo provides the code for [this webinar](https://www.astronomer.io/events/webinars/using-airflow-with-tensorflow-mlflow). The webinar goes into more detail about the code, tooling choices, general ML Ops with Airflow stuff and will help with understanding more of this repo.
+ This repo walks through the steps necessary to create and operate an image classifier using Apache Airflow. This includes the DAG and required code to run it, steps to build the kubernetes resources and some helpful hints and tips to apply this into your own environment.
 
 ![dag](images/xray_dag.png)
 
